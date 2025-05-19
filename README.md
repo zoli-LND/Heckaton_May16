@@ -50,6 +50,12 @@ Seeing the charts helps the analysis. I tried different charts with different co
 3. Single people are more loyal than any other group.
 4. Customers with higher transaction numbers tend to be more loyal, regardless of their age.
 
+## Credit
+
+* Code Institute SLM, Visualisation chapter, where I checked the options.
+* John Rearden from Code Institute, who helped me solve technical issues, such as establishing a connection between VS and GitHub.
+* ChatGPT, where I got corrections and ideas for coding.
+
 	
 
 
