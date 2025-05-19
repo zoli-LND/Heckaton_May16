@@ -5,7 +5,7 @@
 
 The task is to analyse the given data and determine the reasons for the clients' attrition, using the ETL method.
 
-Looking at the dataset in Excel, there were several reasons why the customers were leaving the credit card service of the bank.
+Looking at the dataset in Excel, there could have been several reasons why the customers were leaving the credit card service of the bank.
 
 ## Dataset content
 
