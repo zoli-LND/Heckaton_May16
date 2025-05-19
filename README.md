@@ -1,4 +1,6 @@
 # Credit Card Customer Churn Analysis
+### - by Zoli Greczi
+
 
 
 The task is to analyse the given data and determine the reasons for the clients' attrition, using the ETL method.
@@ -76,6 +78,8 @@ Pandas, Numpy, Plotly, Seaborn and Matplotlib.
 * ChatGPT, where I got corrections and ideas for coding.
 * Dataset is provided by kaggle.
 
-	
+## Acknowledgements
+
+Special thanks to the tutors, Emma Lamont, Mark Briscoe, John Rearden and Niel McEwan from Code Institute, for their help and guidance.
 
 
