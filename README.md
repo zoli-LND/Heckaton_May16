@@ -3,7 +3,11 @@
 
 The task is to analyse the given data and determine the reasons for the clients' attrition, using the ETL method.
 
-Looking at the dataset, I had the following hypothesis:
+Looking at the dataset in Excel, there were several reasons why the customers were leaving the credit card service of the bank.
+
+## Dataset content
+
+Information about the bank's customers, including personal information and about their transactions executed by credit cards. The entire dataset was used, all 10,127 lines.
 
 ### Hypothesis 1.
 
@@ -53,6 +57,17 @@ Seeing the charts helps the analysis. Different charts with different contents w
 ## Ethical considerations
 
 All financial data falls into the highly sensitive category, therefore, GDPR must be strictly followed.
+
+## Technologies used
+
+* Visual Studio Code
+* Python
+* Jupyter notebook
+* ChatGPT
+
+## Data Analysis Libraries
+
+Pandas, Numpy, Plotly, Seaborn and Matplotlib.
 
 ## Credits
 
