@@ -45,10 +45,10 @@ Seeing the charts helps the analysis. I tried different charts with different co
 
 ## Conclusion
 
-* 1. Customers with the blue card are the most loyal ones.
-* 2. Though the 36-60 age customers are the ones who make out most of the churning, the same age group represents the highest amount among the customers.
-* 3. Single people are more loyal than any other group.
-* 4. Customers with higher transaction numbers tend to be more loyal, regardless of their age.
+1. Customers with the blue card are the most loyal ones.
+2. Though the 36-60 age customers are the ones who make out most of the churning, the same age group represents the highest amount among the customers.
+3. Single people are more loyal than any other group.
+4. Customers with higher transaction numbers tend to be more loyal, regardless of their age.
 
 	
 
