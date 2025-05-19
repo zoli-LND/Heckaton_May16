@@ -35,7 +35,7 @@ Checking how the different data correlate to each other, but mainly to the custo
 
 ## Data visualisation
 
-Seeing the charts helps the analysis. I tried different charts with different contents. The most useful were the following ones:
+Seeing the charts helps the analysis. Different charts with different contents were tried. The most useful were the following ones:
 
 * Customer Age vs. Total Transaction Count
 * Age, Transactions and Revolving Balance
@@ -50,11 +50,16 @@ Seeing the charts helps the analysis. I tried different charts with different co
 3. Single people are more loyal than any other group.
 4. Customers with higher transaction numbers tend to be more loyal, regardless of their age.
 
-## Credit
+## Ethical considerations
+
+All financial data falls into the highly sensitive category, therefore, GDPR must be strictly followed.
+
+## Credits
 
 * Code Institute SLM, Visualisation chapter, where I checked the options.
 * John Rearden from Code Institute, who helped me solve technical issues, such as establishing a connection between VS and GitHub.
 * ChatGPT, where I got corrections and ideas for coding.
+* Dataset is provided by kaggle.
 
 	
 
